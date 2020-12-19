@@ -1,4 +1,4 @@
-### Hi there, I'm Guilherme! 👋🏻👨🏻‍💻
+### Hello world, I'm Guilherme! 👋🏻👨🏻‍💻
 
 Hi, I'm Guilherme, an student of information systems passionate about programming and technology, interesting in the areas of engineering and software architecture.
 
